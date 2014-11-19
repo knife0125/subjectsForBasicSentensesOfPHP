@@ -7,4 +7,10 @@
     );
 
     // foreach文を使って、key, valueをそれぞれ毎回echoするような制御構文を書いて下さい
+    foreach ($array as $key => $val) {
+        echo $key;
+        echo ": ";
+        echo $val;
+        echo "\n";
+    }
 ?>
