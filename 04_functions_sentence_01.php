@@ -1,5 +1,4 @@
 <?php
-
     // 1 + 1 をしてその結果を返す関数を定義してください
     function onePlusOne() {
         return 1 + 1;

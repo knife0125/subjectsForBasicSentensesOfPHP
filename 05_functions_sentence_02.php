@@ -1,5 +1,4 @@
 <?php
-
     // $a, $bとして引数を受け取り、それを足し算する関数を定義して下さい
     function add($a, $b) {
         return $a + $b;
